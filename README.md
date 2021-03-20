@@ -1,4 +1,4 @@
-# home-mortgage-data-analysis
+# Home Mortgage Data Analysis
 
 ## Sypnosis
 
